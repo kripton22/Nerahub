@@ -1,0 +1,24 @@
+div {
+    color: yellow;
+    background-color: gray;
+}
+
+#nerahubs {
+    font-size: 50px;
+}
+
+.nerahubs {
+    font-weight: 700;
+    color: #c7811e;
+}
+
+.Prince {
+    background-color: #c7811e;
+    
+}
+
+.photo {
+    width: 300px;
+    height: 400px;
+    object-fit: contain;
+}
